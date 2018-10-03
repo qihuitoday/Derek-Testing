@@ -1,4 +1,3 @@
 The first line is added by Derek.
 The second line is added by Derek too.
-How are you?
-What's your name?
+The third line is added by Derek.
